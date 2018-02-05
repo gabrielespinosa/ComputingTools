@@ -1,4 +1,4 @@
-# cumputingtools
+# ComputingTools
 20180124 GAEB(Gabriel Andrés Espinosa Barrios)
 Curso sobre Herramientas Computacionales de la Universidad de los Andes, uniandes.
 
