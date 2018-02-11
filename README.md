@@ -1,5 +1,6 @@
 # ComputingTools
 
+<!--- 20180211:ThanksGod feedback about latex-markdown-python(*.ipynb) in *.md, *.rst, et al files. Link of basic edition: https://help.github.com/articles/basic-writing-and-formatting-syntax/  -->
 20180211: Feeback test of Math equations of python, markdown in *.md files:
 Backgrond from @affromero and @andresgm:
 ## Sharelatex test, 20180208:
