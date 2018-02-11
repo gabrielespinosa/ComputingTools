@@ -1,12 +1,14 @@
 # ComputingTools
 
 <!--- 20180211:ThanksGod feedback about latex-markdown-python(*.ipynb) in *.md, *.rst, et al files. Link of basic edition: https://help.github.com/articles/basic-writing-and-formatting-syntax/  -->
-20180211: Feeback test of Math equations of python, markdown in *.md files:
-Backgrond from @affromero and @andresgm:
+20180211: Feeback test of Math equations of latex-markdown-python(*.ipynb) in *.md, *.rst, et al files:
+Backgrond from @affromero, @andresgm, and @dalcinl:
 ## Sharelatex test, 20180208:
 Link from: [Latex equation display academic network](http://www.sciweavers.org/free-online-latex-equation-editor)
 
-![Vector Calculus](http://www.sciweavers.org/upload/Tex2Img_1518376851/eqn.png)
+![Vector Calculus](https://github.com/gabrielespinosa/ComputingTools/blob/master/20180211sciweaversorgTex2Img_1518376851eqn.png)
+
+<!--- 20180211:Image link that stop to work ![Vector Calculus](http://www.sciweavers.org/upload/Tex2Img_1518376851/eqn.png) -->
 
 Figure 1. Vector Calculus Latex equation``image``.
 
