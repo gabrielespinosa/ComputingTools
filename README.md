@@ -5,7 +5,7 @@ Backgrond from @affromero and @andresgm:
 ## Sharelatex test, 20180208:
 Link from: [Latex equation display academic network](http://www.sciweavers.org/free-online-latex-equation-editor)
 
-![Vector Calculus](http://www.sciweavers.org/tex2img.php?eq=Lo%20que%20mostr%C3%B3%20el%20profesor%20Cesar%20Galindo%3A%5C%5C%0A%24%5Clim_%7B%28x%2Cy%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28x%2Cy%29%24%20to%20%24%5Clim_%7B%28r%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28r%2C%5Ctheta%29%24%0A%5C%5C%0APropuesta%20mia%3A%5C%5C%0ALimit%20%24%5Clim_%7B%28x%2Cy%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28x%2Cy%29%24%20to%20%24%5Clim_%7B%28r%2C%5Ctheta%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28r%2C%5Ctheta%29%24&bc=White&fc=Black&im=png&fs=12&ff=modern&edit=0[/img])
+![Vector Calculus](http://www.sciweavers.org/upload/Tex2Img_1518376851/eqn.png)
 
 Figure 1. Vector Calculus Latex equation``image``.
 
