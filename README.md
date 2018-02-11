@@ -1,4 +1,23 @@
 # ComputingTools
+
+20180211: Feeback test of Math equations of python, markdown in *.md files:
+Backgrond from @affromero and @andresgm:
+## Sharelatex test, 20180208:
+Link from: [Latex equation display academic network](http://www.sciweavers.org/free-online-latex-equation-editor)
+
+![Vector Calculus](http://www.sciweavers.org/tex2img.php?eq=Lo%20que%20mostr%C3%B3%20el%20profesor%20Cesar%20Galindo%3A%5C%5C%0A%24%5Clim_%7B%28x%2Cy%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28x%2Cy%29%24%20to%20%24%5Clim_%7B%28r%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28r%2C%5Ctheta%29%24%0A%5C%5C%0APropuesta%20mia%3A%5C%5C%0ALimit%20%24%5Clim_%7B%28x%2Cy%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28x%2Cy%29%24%20to%20%24%5Clim_%7B%28r%2C%5Ctheta%29%5Cto%5C%20%28a%2Cb%29%7D%20f%28r%2C%5Ctheta%29%24&bc=White&fc=Black&im=png&fs=12&ff=modern&edit=0[/img])
+
+Figure 1. Vector Calculus Latex equation``image``.
+
+Latex text:
+```Latex
+Lo que mostró el profesor Cesar Galindo:\\
+$\lim_{(x,y)\to\ (a,b)} f(x,y)$ to $\lim_{(r)\to\ (a,b)} f(r,\theta)$
+\\
+Propuesta mía:\\
+Limit $\lim_{(x,y)\to\ (a,b)} f(x,y)$ to $\lim_{(r,\theta)\to\ (a,b)} f(r,\theta)$
+```
+
 20180124 GAEB(Gabriel Andrés Espinosa Barrios)
 Curso sobre Herramientas Computacionales de la Universidad de los Andes, uniandes.
 
