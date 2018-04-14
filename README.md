@@ -1,5 +1,15 @@
 # ComputingTools
 
+<!--- 20180414:ThanksGod fast feedback test to join and showing, Matlab, and Python, files,(in latex-sharelatex to pdf files), functions to describe and generate bones Solid geometry from dicom patient files. -->
+20180413: Fast feedback test to join and showing, Matlab, and Python, files,(in latex-sharelatex to pdf files), functions to describe and generate bones, solid, geometry, models from dicom patient files. 
+
+Related attached files:
+1. 2013GeneralBiomedicalCivilElectronicMathMechanicalEngineering_notes.pdf
+2. CTSolidsGeneration.m
+3. loading_process_dicom.py 
+
+Background from: @andresgm, @nocollier, and @dalcinl.
+
 <!--- 20180211:ThanksGod feedback about latex-markdown-python(*.ipynb) in *.md, *.rst, et al files. Link of basic edition: https://help.github.com/articles/basic-writing-and-formatting-syntax/  -->
 20180211: Feeback test of Math equations of latex-markdown-python(*.ipynb) in *.md, *.rst, et al files:
 Backgrond from @affromero, @andresgm, and @dalcinl:
