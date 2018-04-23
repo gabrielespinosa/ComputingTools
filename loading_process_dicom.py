@@ -4,6 +4,8 @@
 2018 Computing Tools Project  - Bone Fingers Stress Strain IGA-NURBS-BSplines Applications 
 Computing Tools(Herramientas Computacionales) - Uniandes. 
 
+2012 Initial Background From: Nathaniel Collier, @nocollier, for the python function "process_dicom.py"
+
 Student:
 GAEB(Gabriel Andrés Espinosa Barrios)
 Returning/re-entry Engineering PhD Graduate Student. Cod:200311728 Id:110279864X. 
